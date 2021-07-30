@@ -1,2 +1,4 @@
-# GodotGame
-Tutorial to learn godot
+# Sens_Clinique
+Jeux de simulation médical
+
+Développé par REJ Team
