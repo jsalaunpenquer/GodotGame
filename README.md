@@ -1,4 +1,4 @@
-# Sens_Clinique
-Jeux de simulation médical
+# Godot Game
+Tutorial to learn godot
 
-Développé par REJ Team
+Développé par Jean
